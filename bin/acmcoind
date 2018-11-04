@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var acmcoind = require('../lib/cli/acmcored');
+acmcoind();
