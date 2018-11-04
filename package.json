@@ -39,8 +39,8 @@
     }
   ],
   "bin": {
-    "acmcore-node": "./bin/acmcore-node",
-    "acmcoind": "./bin/acmcoind"
+    "acmcore": "./bin/acmcore",
+    "acmcored": "./bin/acmcored"
   },
   "scripts": {
     "preinstall": "./scripts/download",
