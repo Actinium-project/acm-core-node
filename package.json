@@ -39,8 +39,7 @@
     }
   ],
   "bin": {
-    "acmcore": "./bin/acmcore",
-    "acmcored": "./bin/acmcored"
+    "acmcore": "./bin/acmcore"
   },
   "scripts": {
     "preinstall": "./scripts/download",
