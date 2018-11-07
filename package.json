@@ -4,7 +4,7 @@
   "author": "Harris brakmic <brakmic@gmail.com>",
   "version": "1.0.0",
   "main": "./index.js",
-  "repository": "git://github.com/Actinium-project/acmcore-node.git",
+  "repository": "https://github.com/Actinium-project/acmcore-node.git",
   "homepage": "https://github.com/Actinium-project/acmcore-node",
   "bugs": {
     "url": "https://github.com/Actinium-project/acmcore-node/issues"
@@ -78,7 +78,7 @@
   },
   "devDependencies": {
     "benchmark": "1.0.0",
-    "acmcore-p2p": "git://github.com/Actinium-project/acmcore-p2p.git",
+    "acmcore-p2p": "https://github.com/Actinium-project/acmcore-p2p.git",
     "chai": "^3.5.0",
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.3",
